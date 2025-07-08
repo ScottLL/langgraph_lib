@@ -1,0 +1,11 @@
+Your Conversation Log:
+You: hey, who am I?
+AI: I'm sorry, but I don't have the ability to know personal details about individuals unless they've shared that information with me during our conversation. If you'd like, you can tell me a bit about yourself or ask me anything else.
+
+You: hey I'm scott
+AI: Hi Scott! Nice to meet you. How can I assist you today?
+
+You: how are you ?
+AI: Thank you for asking! I'm just a computer program, so I don't have feelings, but I'm here and ready to help you. How are you doing?
+
+End of Conversation
